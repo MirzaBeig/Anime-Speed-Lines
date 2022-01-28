@@ -35,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Mirza: Custom ignores.
+
+/Assets/AmplifyShaderEditor
