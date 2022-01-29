@@ -20,6 +20,8 @@ You'll find everything under Mirza Beig/Anime Speed Lines/...
 
 Attach _CustomPostProcessing_ to your camera, and assign the included _Anime Speed Lines_ material (or make your own).
 
+![image](https://user-images.githubusercontent.com/37354140/151656519-394bb2b3-f03f-4fdd-b074-e29213be163a.png)
+
 ## Social Media
 - [Twitter](https://twitter.com/TheMirzaBeig/)
 - [YouTube](https://www.youtube.com/c/MirzaBeig)
