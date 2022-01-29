@@ -22,6 +22,8 @@ Attach _CustomPostProcessing_ to your camera, and assign the included _Anime Spe
 
 ![image](https://user-images.githubusercontent.com/37354140/151656519-394bb2b3-f03f-4fdd-b074-e29213be163a.png)
 
+You can adjust opacity through the colour alpha.
+
 ## Social Media
 - [Twitter](https://twitter.com/TheMirzaBeig/)
 - [YouTube](https://www.youtube.com/c/MirzaBeig)
