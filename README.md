@@ -1,6 +1,10 @@
 # Anime Speed Lines
 
- Post-processing effect to procedurally generate an anime/manga-style vignette of lines typically used to portray speed or surprise.
+Post-processing effect to procedurally generate an anime/manga-style vignette of lines typically used to portray speed or surprise.
+ 
+https://user-images.githubusercontent.com/37354140/151656252-9619819d-9ba0-4d7c-bf75-6a6241ba6953.mp4
+
+https://user-images.githubusercontent.com/37354140/151656459-d99d2d36-06ed-4889-8a10-17cabd1626d8.mp4
 
 ## Compatibility
 
