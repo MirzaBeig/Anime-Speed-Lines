@@ -26,7 +26,8 @@ Attach _CustomPostProcessing_ to your camera, and assign the included _Anime Spe
 
 ### URP
 
-Instead of attaching a script to the camera, add _CustomRenderPassFeature_ to your URP Renderer pipelines asset and assign the material there.
+Instead of attaching a script to the camera, add _CustomRenderPassFeature_ to your URP pipeline asset renderer and assign the material there.
+Alternatively, you can use the included URP pipeline asset under _Mirza Beig/Anime Speed Lines/Rendering/_.
 
 ![image](https://user-images.githubusercontent.com/37354140/151699803-cb90fed7-b244-4709-b106-e6c24435166a.png)
 
