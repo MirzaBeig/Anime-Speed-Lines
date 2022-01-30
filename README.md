@@ -8,8 +8,8 @@ https://user-images.githubusercontent.com/37354140/151656459-d99d2d36-06ed-4889-
 
 ## Compatibility
 
-- Built-in pipeline.
-- Tested with Unity 2020.3 (LTS). 
+- Built-in pipeline + URP.
+- Tested with Unity 2021.2.8f1. 
 - Can be edited using Amplify Shader Editor.
 
 ## Installation
@@ -18,9 +18,17 @@ You'll find everything under Mirza Beig/Anime Speed Lines/...
 
 ## Usage
 
+### Built-In
+
 Attach _CustomPostProcessing_ to your camera, and assign the included _Anime Speed Lines_ material (or make your own).
 
 ![image](https://user-images.githubusercontent.com/37354140/151656519-394bb2b3-f03f-4fdd-b074-e29213be163a.png)
+
+### URP
+
+Instead of attaching a script to the camera, add _CustomRenderPassFeature_ to your URP Renderer pipelines asset and assign the material there.
+
+![image](https://user-images.githubusercontent.com/37354140/151699803-cb90fed7-b244-4709-b106-e6c24435166a.png)
 
 You can adjust opacity through the colour alpha.
 
