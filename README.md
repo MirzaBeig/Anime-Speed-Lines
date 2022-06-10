@@ -48,5 +48,5 @@ Every bit is appreciated!
 
 ## Patrons/Supporters (Thank You!)
 
-Adam Mulvey
-Shawn Tanner
+- Adam Mulvey
+- Shawn Tanner
