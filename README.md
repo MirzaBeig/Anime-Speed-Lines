@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/37354140/151656459-d99d2d36-06ed-4889-
 ## Compatibility
 
 - Built-in pipeline + URP.
-- Tested with Unity 2021.2.8f1. 
+- Tested with Unity 2020.3 (LTS). 
 - Can be edited using Amplify Shader Editor.
 
 ## Installation
