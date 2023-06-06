@@ -1,6 +1,24 @@
 # Anime Speed Lines
 
+[![Unity Version](https://img.shields.io/badge/Unity-2021.3%20LTS%2B-blueviolet?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_❌-blue?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)](https://unity3d.com/get-unity/download)
+
+[![GitHub followers](https://img.shields.io/github/followers/MirzaBeig?style=social)](https://github.com/MirzaBeig?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheMirzaBeig?style=social)](http://twitter.com/intent/user?screen_name=TheMirzaBeig)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+
 Post-processing effect to procedurally generate an anime/manga-style vignette of lines typically used to portray speed or surprise.
+
+[![Stars](https://img.shields.io/github/stars/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../stargazers)
+[![Forks](https://img.shields.io/github/forks/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../forks)
+[![GitHub watchers](https://img.shields.io/github/watchers/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../watchers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../)
+
+## Previews
 
 https://user-images.githubusercontent.com/37354140/151700369-164fb9a1-f2b8-441e-b85c-8a15fb4451a5.mp4
 
