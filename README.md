@@ -18,7 +18,7 @@ Post-processing effect to procedurally generate an anime/manga-style vignette of
 [![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/Anime-Speed-Lines?style=for-the-badge)](../../)
 
-## Previews
+## Preview
 
 https://user-images.githubusercontent.com/37354140/151700369-164fb9a1-f2b8-441e-b85c-8a15fb4451a5.mp4
 
